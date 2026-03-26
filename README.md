@@ -1,7 +1,7 @@
 # Hi there 👋, This is Suhani Bode
 💫❤️
 
-
+---
 🎓 Currently persuing B.Tech CSE (Data Science),3rd year Student  
 💻 Aspiring Data Scientist | AI Enthusiast  
 
