@@ -18,15 +18,21 @@
 - Libraries: Pandas, NumPy, Matplotlib
 ---
 
-## 📊 Projects
-- 🔹 Stress Prediction using Machine Learning
 
-Built a model to predict stress levels using lifestyle and behavioral data
-Performed data cleaning, preprocessing, and exploratory data analysis
-Applied machine learning algorithms like Logistic Regression and Random Forest
-Focused on early stress detection and awareness
+## 📊 Projects  
+
+### 🔹 Stress Prediction using Machine Learning  
+- Built a model to predict stress levels using lifestyle and behavioral data  
+- Performed data cleaning, preprocessing, and exploratory data analysis  
+- Applied machine learning algorithms like Logistic Regression and Random Forest  
+- Focused on early stress detection and awareness  
 ---
+## 📈 GitHub Stats  
 
+![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanibode248&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+---
 ## 📫 Connect with Me
 - LinkedIn: (www.linkedin.com/in/suhani-bode-8155ab312)
 - Email: (suhanibode248@gmail.com)
