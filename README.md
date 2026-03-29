@@ -19,7 +19,12 @@
 ---
 
 ## 📊 Projects
-- 🔹 Stress Prediction using ML
+- 🔹 Stress Prediction using Machine Learning
+
+Built a model to predict stress levels using lifestyle and behavioral data
+Performed data cleaning, preprocessing, and exploratory data analysis
+Applied machine learning algorithms like Logistic Regression and Random Forest
+Focused on early stress detection and awareness
 ---
 
 ## 📫 Connect with Me
