@@ -27,12 +27,14 @@
 - Applied machine learning algorithms like Logistic Regression and Random Forest  
 - Focused on early stress detection and awareness  
 ---
-## 📈 GitHub Stats  
+## 📊 GitHub Stats
 
-![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanibode248&show_icons=true&theme=radical)
+![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanibode&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
----
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhanibode&layout=compact&theme=radical)
+
 ## 📫 Connect with Me
 - LinkedIn: (www.linkedin.com/in/suhani-bode-8155ab312)
 - Email: (suhanibode248@gmail.com)
