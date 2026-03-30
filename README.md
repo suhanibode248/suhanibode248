@@ -26,6 +26,7 @@
   <img src="https://streak-stats.demolab.com/?user=suhanibode248&theme=tokyonight" />
 </p>
 ---
+
 ## 📊 Projects  
 
 ### 🔹 Stress Prediction using Machine Learning  
