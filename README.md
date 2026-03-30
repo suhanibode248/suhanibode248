@@ -14,7 +14,8 @@
 ---
 
 ## 🛠️ Skills
-- Programming: Python, C++, HTML
+- Programming: Python, C++
+- web: HTML,CSS
 - Libraries: Pandas, NumPy, Matplotlib
 ---
 
