@@ -63,106 +63,22 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=suhanibode248&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=3"/>
 </a>
-
 </div>
 
 ---
 
 ## 💼 Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">◈ AI Travel Planner</h3>
-      <p align="center"><i>AI-powered personalized travel itinerary generator</i></p>
-      <p>
-        ◦ Generates day-by-day travel plans based on user preferences<br/>
-        ◦ Suggests destinations, hotels & activities<br/>
-        ◦ Integrated with AI APIs for smart recommendations
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NLP-654ea3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/AI APIs-eaafc8?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">◈ Multilanguage Voice Assistant</h3>
-      <p align="center"><i>Voice assistant supporting multiple languages</i></p>
-      <p>
-        ◦ Understands and responds in multiple languages<br/>
-        ◦ Converts speech to text and generates spoken replies<br/>
-        ◦ Real-time voice interaction pipeline
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SpeechRecognition-654ea3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/gTTS-eaafc8?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">◈ Startup Success Predictor</h3>
-      <p align="center"><i>ML model to predict startup success probability</i></p>
-      <p>
-        ◦ Analyzed funding, team size, market & industry data<br/>
-        ◦ Applied classification algorithms for prediction<br/>
-        ◦ Interactive visualizations of key success factors
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">◈ Why Did My Model Fail</h3>
-      <p align="center"><i>Diagnostic tool for ML model failure analysis</i></p>
-      <p>
-        ◦ Identifies overfitting, data issues & poor features<br/>
-        ◦ Visualizes error patterns & feature importance<br/>
-        ◦ SHAP-based explainability for model decisions
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SHAP-654ea3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">◈ Stress Prediction using ML</h3>
-      <p align="center"><i>Predicting stress from lifestyle & behavioral data</i></p>
-      <p>
-        ◦ Full EDA, data cleaning & preprocessing pipeline<br/>
-        ◦ Applied Logistic Regression & Random Forest<br/>
-        ◦ Focused on early stress detection & awareness
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">◈ More Coming Soon...</h3>
-      <p align="center"><i>Always building something new</i></p>
-      <p align="center"><br/>⟡ Currently exploring Deep Learning<br/>⟡ Working on NLP projects<br/>⟡ Open to collaborations</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Stay%20Tuned-654ea3?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+| # | Project | Description | Tech Stack |
+|---|---------|-------------|------------|
+| 01 | **AI Travel Planner** | AI-powered personalized travel itinerary generator | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-654ea3?style=flat-square&logoColor=white) ![AI](https://img.shields.io/badge/AI%20APIs-eaafc8?style=flat-square) |
+| 02 | **Multilanguage Voice Assistant** | Voice assistant that understands & speaks multiple languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Speech](https://img.shields.io/badge/SpeechRecognition-654ea3?style=flat-square) ![gTTS](https://img.shields.io/badge/gTTS-eaafc8?style=flat-square) |
+| 03 | **Startup Success Predictor** | ML model predicting startup success probability | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| 04 | **Why Did My Model Fail** | Diagnostic tool for ML model failure analysis using SHAP | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-654ea3?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) |
+| 05 | **Stress Prediction using ML** | Predicting stress levels from lifestyle & behavioral data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 
 ---
 
