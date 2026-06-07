@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc8&height=200&section=header&text=Suhani%20Bode&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE(Data%20Science)&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc8&height=200&section=header&text=Suhani%20Bode&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 <img src="https://komarev.com/ghpvc/?username=suhanibode248&label=Profile+Views&color=654ea3&style=flat-square"/>
 
@@ -72,13 +72,38 @@
 
 ## 💼 Projects
 
-| # | Project | Description | Tech Stack |
-|---|---------|-------------|------------|
-| 01 | **AI Travel Planner** | AI-powered personalized travel itinerary generator | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-654ea3?style=flat-square&logoColor=white) ![AI](https://img.shields.io/badge/AI%20APIs-eaafc8?style=flat-square) |
-| 02 | **Multilanguage Voice Assistant** | Voice assistant that understands & speaks multiple languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Speech](https://img.shields.io/badge/SpeechRecognition-654ea3?style=flat-square) ![gTTS](https://img.shields.io/badge/gTTS-eaafc8?style=flat-square) |
-| 03 | **Startup Success Predictor** | ML model predicting startup success probability | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| 04 | **Why Did My Model Fail** | Diagnostic tool for ML model failure analysis using SHAP | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-654ea3?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) |
-| 05 | **Stress Prediction using ML** | Predicting stress levels from lifestyle & behavioral data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+**`01`** &nbsp; **AI Travel Planner**
+> AI-powered personalized travel itinerary generator
+
+`Python` `NLP` `AI APIs`
+
+---
+
+**`02`** &nbsp; **Multilanguage Voice Assistant**
+> Voice assistant that understands and responds in multiple languages
+
+`Python` `SpeechRecognition` `NLP` `gTTS`
+
+---
+
+**`03`** &nbsp; **Startup Success Predictor**
+> ML model to predict whether a startup will succeed
+
+`Python` `Scikit-learn` `Pandas` `Matplotlib`
+
+---
+
+**`04`** &nbsp; **Why Did My Model Fail — Analysis Tool**
+> Diagnostic tool to explain and visualize ML model failures using SHAP
+
+`Python` `Scikit-learn` `SHAP` `Matplotlib`
+
+---
+
+**`05`** &nbsp; **Stress Prediction using Machine Learning**
+> Predicting stress levels from lifestyle and behavioral data
+
+`Python` `Pandas` `Scikit-learn` `Matplotlib`
 
 ---
 
