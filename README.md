@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing **B.Tech CSE (Data Science)** — 3rd Year, Nagpur
+- 🎓 Pursuing **B.Tech CSE (Data Science)** — 4th Year, Nagpur
 - 💻 Aspiring **Data Scientist** | **AI Enthusiast**
 - 🌱 Currently learning: **Machine Learning · Deep Learning · NLP**
 - 🎯 Goal: Data Scientist / Data Analyst at a Multinational Company
