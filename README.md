@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- HEADER BANNER - reliable capsule render -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f5a623&height=200&section=header&text=Suhani%20Bode&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=200&section=header&text=Suhani%20Bode&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18&descColor=ffffff"/>
 
-<!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=suhanibode248&label=Profile+Views&color=orange&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=suhanibode248&label=Profile+Views&color=8e2de2&style=flat-square"/>
 
 </div>
 
@@ -50,13 +48,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suhanibode248&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=F5A623&icon_color=F5A623" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suhanibode248&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=8e2de2&icon_color=8e2de2" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanibode248&layout=compact&theme=dark&hide_border=true&title_color=F5A623" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanibode248&layout=compact&theme=dark&hide_border=true&title_color=8e2de2" height="160"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=suhanibode248&theme=dark&hide_border=true&ring=F5A623&fire=F5A623&currStreakLabel=F5A623"/>
+<img src="https://streak-stats.demolab.com/?user=suhanibode248&theme=dark&hide_border=true&ring=8e2de2&fire=4a00e0&currStreakLabel=8e2de2"/>
 
 </div>
 
@@ -65,7 +63,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhanibode248&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=suhanibode248&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ---
@@ -107,5 +105,4 @@
   <b>✨ "Always learning and growing in tech!" ✨</b>
 </div>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f5a623&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=120&section=footer"/>
