@@ -63,16 +63,57 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhanibode248&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+
+> 🕐 *Trophies appear as you make commits, open PRs, and get stars — keep contributing!*
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=suhanibode248&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=3"/>
+</a>
+
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
 
-### 🔹 Stress Prediction using Machine Learning
+### ✈️ AI Travel Planner
+> *An AI-powered travel itinerary generator*
 
-> Predicting stress levels from lifestyle and behavioral data
+- 🤖 Uses AI to generate personalized travel plans based on user preferences
+- 📍 Suggests destinations, hotels, activities and day-by-day itineraries
+- 🔧 **Tools:** Python · NLP · AI APIs
+
+---
+
+### 🎙️ Multilanguage Voice Assistant
+> *A voice assistant that understands and responds in multiple languages*
+
+- 🌐 Supports multiple languages for voice input and output
+- 🔊 Converts speech to text and responds with relevant answers
+- 🔧 **Tools:** Python · Speech Recognition · NLP · gTTS
+
+---
+
+### 📈 Startup Success Predictor
+> *Predicting whether a startup will succeed using ML*
+
+- 📊 Analyzed startup data including funding, team size, market, and industry
+- 🤖 Applied classification algorithms to predict success probability
+- 🔧 **Tools:** Python · Scikit-learn · Pandas · Matplotlib
+
+---
+
+### 🔍 Why Did My Model Fail — Analysis Tool
+> *A diagnostic tool to explain ML model failures*
+
+- 🧠 Identifies reasons behind poor model performance (overfitting, data issues, etc.)
+- 📉 Visualizes error patterns, feature importance, and data distribution
+- 🔧 **Tools:** Python · Scikit-learn · SHAP · Matplotlib
+
+---
+
+### 😟 Stress Prediction using Machine Learning
+> *Predicting stress levels from lifestyle and behavioral data*
 
 - 🧹 Data cleaning, preprocessing & exploratory data analysis (EDA)
 - 🤖 Applied **Logistic Regression** and **Random Forest** algorithms
