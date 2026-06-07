@@ -64,7 +64,7 @@
 
 <div align="center">
 
-> 🕐 *Trophies appear as you make commits, open PRs, and get stars — keep contributing!*
+> 🕐 *Trophies grow as you commit, get stars and contribute more!*
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=suhanibode248&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=3"/>
@@ -74,51 +74,96 @@
 
 ---
 
-## 🚀 Projects
+## 💼 Projects
 
-### ✈️ AI Travel Planner
-> *An AI-powered travel itinerary generator*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">◈ AI Travel Planner</h3>
+      <p align="center"><i>AI-powered personalized travel itinerary generator</i></p>
+      <p>
+        ◦ Generates day-by-day travel plans based on user preferences<br/>
+        ◦ Suggests destinations, hotels & activities<br/>
+        ◦ Integrated with AI APIs for smart recommendations
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-654ea3?style=flat-square"/>
+        <img src="https://img.shields.io/badge/AI APIs-eaafc8?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">◈ Multilanguage Voice Assistant</h3>
+      <p align="center"><i>Voice assistant supporting multiple languages</i></p>
+      <p>
+        ◦ Understands and responds in multiple languages<br/>
+        ◦ Converts speech to text and generates spoken replies<br/>
+        ◦ Real-time voice interaction pipeline
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SpeechRecognition-654ea3?style=flat-square"/>
+        <img src="https://img.shields.io/badge/gTTS-eaafc8?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
 
-- 🤖 Uses AI to generate personalized travel plans based on user preferences
-- 📍 Suggests destinations, hotels, activities and day-by-day itineraries
-- 🔧 **Tools:** Python · NLP · AI APIs
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">◈ Startup Success Predictor</h3>
+      <p align="center"><i>ML model to predict startup success probability</i></p>
+      <p>
+        ◦ Analyzed funding, team size, market & industry data<br/>
+        ◦ Applied classification algorithms for prediction<br/>
+        ◦ Interactive visualizations of key success factors
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">◈ Why Did My Model Fail</h3>
+      <p align="center"><i>Diagnostic tool for ML model failure analysis</i></p>
+      <p>
+        ◦ Identifies overfitting, data issues & poor features<br/>
+        ◦ Visualizes error patterns & feature importance<br/>
+        ◦ SHAP-based explainability for model decisions
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SHAP-654ea3?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
 
----
-
-### 🎙️ Multilanguage Voice Assistant
-> *A voice assistant that understands and responds in multiple languages*
-
-- 🌐 Supports multiple languages for voice input and output
-- 🔊 Converts speech to text and responds with relevant answers
-- 🔧 **Tools:** Python · Speech Recognition · NLP · gTTS
-
----
-
-### 📈 Startup Success Predictor
-> *Predicting whether a startup will succeed using ML*
-
-- 📊 Analyzed startup data including funding, team size, market, and industry
-- 🤖 Applied classification algorithms to predict success probability
-- 🔧 **Tools:** Python · Scikit-learn · Pandas · Matplotlib
-
----
-
-### 🔍 Why Did My Model Fail — Analysis Tool
-> *A diagnostic tool to explain ML model failures*
-
-- 🧠 Identifies reasons behind poor model performance (overfitting, data issues, etc.)
-- 📉 Visualizes error patterns, feature importance, and data distribution
-- 🔧 **Tools:** Python · Scikit-learn · SHAP · Matplotlib
-
----
-
-### 😟 Stress Prediction using Machine Learning
-> *Predicting stress levels from lifestyle and behavioral data*
-
-- 🧹 Data cleaning, preprocessing & exploratory data analysis (EDA)
-- 🤖 Applied **Logistic Regression** and **Random Forest** algorithms
-- 🎯 Focused on early stress detection and mental health awareness
-- 🔧 **Tools:** Python · Pandas · Scikit-learn · Matplotlib
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">◈ Stress Prediction using ML</h3>
+      <p align="center"><i>Predicting stress from lifestyle & behavioral data</i></p>
+      <p>
+        ◦ Full EDA, data cleaning & preprocessing pipeline<br/>
+        ◦ Applied Logistic Regression & Random Forest<br/>
+        ◦ Focused on early stress detection & awareness
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">◈ More Coming Soon...</h3>
+      <p align="center"><i>Always building something new</i></p>
+      <p align="center"><br/>⟡ Currently exploring Deep Learning<br/>⟡ Working on NLP projects<br/>⟡ Open to collaborations</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stay%20Tuned-654ea3?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
