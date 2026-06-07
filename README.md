@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc8&height=200&section=header&text=Suhani%20Bode&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc8&height=200&section=header&text=Suhani%20Bode&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE(Data%20Science)&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 <img src="https://komarev.com/ghpvc/?username=suhanibode248&label=Profile+Views&color=654ea3&style=flat-square"/>
 
@@ -76,6 +76,7 @@
 - AI-powered app that generates personalized day-by-day travel itineraries based on user preferences.
 - Suggests destinations, hotels & activities using intelligent AI APIs.
 - `Python` `NLP` `AI APIs`
+- 🔗 [View Repository](https://github.com/suhanibode248/AI-Travel-Planner)
 
 ---
 
@@ -83,6 +84,7 @@
 - Voice assistant that understands and responds in multiple languages in real time.
 - Converts speech to text and generates spoken replies using gTTS.
 - `Python` `SpeechRecognition` `NLP` `gTTS`
+- 🔗 [View Repository](https://github.com/suhanibode248/Multilanguage-polyglot-ai)
 
 ---
 
@@ -90,6 +92,7 @@
 - ML model that predicts whether a startup will succeed based on funding, team size, market & industry data.
 - Applied classification algorithms with interactive visualizations of key success factors.
 - `Python` `Scikit-learn` `Pandas` `Matplotlib`
+- 🔗 [View Repository](https://github.com/suhanibode248/Startup-success-predictor)
 
 ---
 
@@ -97,6 +100,7 @@
 - Diagnostic tool that identifies reasons behind poor ML model performance such as overfitting and data issues.
 - Uses SHAP for explainability and visualizes error patterns and feature importance.
 - `Python` `Scikit-learn` `SHAP` `Matplotlib`
+- 🔗 [View Repository](https://github.com/suhanibode248/Why-did-my-model-fail)
 
 ---
 
@@ -104,6 +108,7 @@
 - Predicts stress levels from lifestyle and behavioral data with a full EDA and preprocessing pipeline.
 - Applied Logistic Regression and Random Forest for early stress detection and mental health awareness.
 - `Python` `Pandas` `Scikit-learn` `Matplotlib`
+- 🔗 [View Repository](https://github.com/suhanibode248/Stress-Prediction-using-ML)
 
 ---
 
