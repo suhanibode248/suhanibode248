@@ -72,38 +72,38 @@
 
 ## 💼 Projects
 
-**`01`** &nbsp; **AI Travel Planner**
-> AI-powered personalized travel itinerary generator
-
-`Python` `NLP` `AI APIs`
-
----
-
-**`02`** &nbsp; **Multilanguage Voice Assistant**
-> Voice assistant that understands and responds in multiple languages
-
-`Python` `SpeechRecognition` `NLP` `gTTS`
+### 🤖 AI Travel Planner
+- AI-powered app that generates personalized day-by-day travel itineraries based on user preferences.
+- Suggests destinations, hotels & activities using intelligent AI APIs.
+- `Python` `NLP` `AI APIs`
 
 ---
 
-**`03`** &nbsp; **Startup Success Predictor**
-> ML model to predict whether a startup will succeed
-
-`Python` `Scikit-learn` `Pandas` `Matplotlib`
-
----
-
-**`04`** &nbsp; **Why Did My Model Fail — Analysis Tool**
-> Diagnostic tool to explain and visualize ML model failures using SHAP
-
-`Python` `Scikit-learn` `SHAP` `Matplotlib`
+### 🎙️ Multilanguage Voice Assistant
+- Voice assistant that understands and responds in multiple languages in real time.
+- Converts speech to text and generates spoken replies using gTTS.
+- `Python` `SpeechRecognition` `NLP` `gTTS`
 
 ---
 
-**`05`** &nbsp; **Stress Prediction using Machine Learning**
-> Predicting stress levels from lifestyle and behavioral data
+### 📈 Startup Success Predictor
+- ML model that predicts whether a startup will succeed based on funding, team size, market & industry data.
+- Applied classification algorithms with interactive visualizations of key success factors.
+- `Python` `Scikit-learn` `Pandas` `Matplotlib`
 
-`Python` `Pandas` `Scikit-learn` `Matplotlib`
+---
+
+### 🔍 Why Did My Model Fail — Analysis Tool
+- Diagnostic tool that identifies reasons behind poor ML model performance such as overfitting and data issues.
+- Uses SHAP for explainability and visualizes error patterns and feature importance.
+- `Python` `Scikit-learn` `SHAP` `Matplotlib`
+
+---
+
+### 😟 Stress Prediction using Machine Learning
+- Predicts stress levels from lifestyle and behavioral data with a full EDA and preprocessing pipeline.
+- Applied Logistic Regression and Random Forest for early stress detection and mental health awareness.
+- `Python` `Pandas` `Scikit-learn` `Matplotlib`
 
 ---
 
