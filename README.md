@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc8&height=200&section=header&text=Suhani%20Bode&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE(Data%20Science)&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc8&height=200&section=header&text=Suhani%20Bode&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20%20Machine%20Learning&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 <img src="https://komarev.com/ghpvc/?username=suhanibode248&label=Profile+Views&color=654ea3&style=flat-square"/>
 
