@@ -191,6 +191,25 @@ A machine learning pipeline that predicts individual stress levels from lifestyl
 
 ---
 
+<details>
+<summary><b>🌾 Agro Tech</b> — AI-Powered Smart Agriculture Platform</summary>
+
+<br/>
+
+An intelligent agriculture technology platform built to empower farmers with data-driven insights. The system integrates machine learning models for crop recommendations, yield predictions, soil analysis, and plant disease detection — bringing smart farming capabilities to a single unified interface.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | Python · Machine Learning · Scikit-learn · Pandas |
+| **Core Features** | Crop recommendation · Yield prediction · Disease detection · Soil analysis |
+| **Intelligence Layer** | ML classification and prediction models trained on agricultural datasets |
+| **Impact Domain** | Smart Farming · Precision Agriculture · Rural Technology |
+| **Repository** | [View on GitHub](https://github.com/suhanibode248/Agro_Tech) |
+
+</details>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -207,31 +226,11 @@ A machine learning pipeline that predicts individual stress levels from lifestyl
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=suhanibode248&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10&title_color=eaafc8)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suhanibode248&bg_color=0d1117&color=eaafc8&line=654ea3&point=ffffff&area=true&hide_border=true)](https://github.com/suhanibode248)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/suhanibode248/suhanibode248/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
