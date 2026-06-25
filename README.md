@@ -30,8 +30,6 @@
 
 ## 👩‍💻 About Me
 
-I am a final-year B.Tech Computer Science (Data Science) student from Nagpur with a strong focus on building intelligent, data-driven systems. My work spans classical machine learning, natural language processing, and diagnostic AI tooling — with an emphasis on building solutions that are not only accurate but explainable and production-aware.
-
 I approach every project with an engineering mindset: clean pipelines, meaningful metrics, and interpretable outputs. I am particularly interested in how machine learning can be applied to real-world domains — from mental health to startup ecosystems — where the stakes demand both precision and transparency.
 
 - 🎓 **B.Tech CSE (Data Science)** — 4th Year, Nagpur
