@@ -76,23 +76,6 @@ I approach every project with an engineering mindset: clean pipelines, meaningfu
 
 ---
 
-## 🧠 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Supervised Learning** | ⭐⭐⭐⭐ Advanced | Logistic Regression, Random Forest, Classification Pipelines |
-| **Model Explainability** | ⭐⭐⭐⭐ Advanced | SHAP values, Feature Importance, Error Pattern Visualisation |
-| **Natural Language Processing** | ⭐⭐⭐ Intermediate | Tokenisation, Sentiment, Multilingual Processing |
-| **Exploratory Data Analysis** | ⭐⭐⭐⭐ Advanced | Full EDA pipelines, Preprocessing, Statistical Insights |
-| **Data Visualisation** | ⭐⭐⭐⭐ Advanced | Matplotlib, Seaborn, Interactive Charts |
-| **Speech & Voice AI** | ⭐⭐⭐ Intermediate | SpeechRecognition, gTTS, Real-Time Multilingual Response |
-| **Deep Learning** | ⭐⭐ Learning | Concepts, Architectures, Neural Networks |
-
-</div>
-
----
 
 ## 💼 Featured Projects
 
@@ -279,7 +262,7 @@ currently:
 ---
 
 <div align="center">
-  <b>✦ "Data is the new oil — I'm here to refine it." ✦</b>
+  <b>✨ "Always learning and growing in tech!" ✨</b>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:eaafc8,50:654ea3,100:1a1a2e&height=130&section=footer"/>
